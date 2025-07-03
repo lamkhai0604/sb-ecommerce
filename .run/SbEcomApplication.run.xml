@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SbEcomApplication" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.ecommerce.project.SbEcomApplication" />
+    <module name="sb-ecom" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
